@@ -1,1 +1,1 @@
-# A Repository with the pipeline used, code for each analysis step, results obtained and links to important resources essential for the development of a bos taurus gene co-expression network to understand pathogenesis of Rift Valley Fever.
+A Repository with the pipeline used, code for each analysis step, results obtained and links to important resources essential for the development of a bos taurus gene co-expression network to understand pathogenesis of Rift Valley Fever.
