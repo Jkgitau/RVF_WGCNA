@@ -1,1 +1,1 @@
-# RVF_WGCNA
+A repository containing the pipeline, code for each analysis step, obtained results, and links to important resources required for the development of a Bos taurus gene co-expression network to understand the pathogenesis of Rift Valley Fever.
