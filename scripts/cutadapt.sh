@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#run cutadapt 
 DATA_DIR='/media/sf_G_DRIVE/Network_analysis/topup'
 TRIMMED_DIR='/media/sf_G_DRIVE/Network_analysis/trimmed/new'
 
@@ -8,7 +8,7 @@ mkdir -p ${TRIMMED_DIR}
 for i in ${DATA_DIR}/*R1_001.fastq.gz
 do
   fqname=$(basename "$i" _R1_001.fastq.gz)
- 
+
  SAMPLE=$(echo ${i} | sed "s/R1_001\.fastq.gz//")
   echo ${SAMPLE}R1.fastq.gz ${SAMPLE}R2.fastq.gz
   cutadapt \

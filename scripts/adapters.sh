@@ -1,12 +1,12 @@
 #!/usr/bin/bash
+ 
+DATA_DIR='/media/john/New Volume/datasets'
 
-DATA_DIR='/media/john/New Volume/datasets' 
-
-#TRIMMED_DIR='/media/john/New Volume/datasets/trimmed' 
+#TRIMMED_DIR='/media/john/New Volume/datasets/trimmed'
 
 #mkdir -p ${TRIMMED_DIR}
 
-for i in ${DATA_DIR}/*R1_001.fastq.gz ; 
+for i in ${DATA_DIR}/*R1_001.fastq.gz ;
 
 do
 
