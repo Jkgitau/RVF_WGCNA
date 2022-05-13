@@ -1,11 +1,4 @@
 Run,individual,serologic_response_status,time,vaccine_administration
-SRR2131558,Animal 75,unvaccinated,Day -7,subcutaneous
-SRR2131559,Animal 76,unvaccinated,Day -7,subcutaneous
-SRR2131560,Animal 74,unvaccinated,Day 0,subcutaneous
-SRR2131561,Animal 75,unvaccinated,Day 0,subcutaneous
-SRR2131562,Animal 76,unvaccinated,Day 0,subcutaneous
-SRR2131563,Animal 86,"vaccinated, not protected",Day 0,intramuscular
-SRR2131564,Animal 88,"vaccinated, not protected",Day 0,intramuscular
 SRR2131565,Animal 75,"vaccinated, not protected",Day 2,subcutaneous
 SRR2131566,Animal 86,"vaccinated, not protected",Day 2,intramuscular
 SRR2131567,Animal 88,"vaccinated, not protected",Day 2,intramuscular
