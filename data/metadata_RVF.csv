@@ -1,39 +1,39 @@
-Run,individual,serologic_response_status,time,vaccine_administration
-SRR2131565,Animal 75,"vaccinated, not protected",Day 2,subcutaneous
-SRR2131566,Animal 86,"vaccinated, not protected",Day 2,intramuscular
-SRR2131567,Animal 88,"vaccinated, not protected",Day 2,intramuscular
-SRR2131568,Animal 74,"vaccinated, not protected",Day 3,subcutaneous
-SRR2131569,Animal 75,"vaccinated, not protected",Day 3,subcutaneous
-SRR2131570,Animal 86,"vaccinated, not protected",Day 3,intramuscular
-SRR2131571,Animal 88,"vaccinated, not protected",Day 3,intramuscular
-SRR2131572,Animal 74,"vaccinated, not protected",Day 4,subcutaneous
-SRR2131573,Animal 75,"vaccinated, not protected",Day 4,subcutaneous
-SRR2131574,Animal 86,"vaccinated, not protected",Day 4,intramuscular
-SRR2131575,Animal 75,"vaccinated, not protected",Day 5,subcutaneous
-SRR2131576,Animal 76,"vaccinated, not protected",Day 5,subcutaneous
-SRR2131577,Animal 86,"vaccinated, not protected",Day 5,intramuscular
-SRR2131578,Animal 88,"vaccinated, not protected",Day 5,intramuscular
-SRR2131579,Animal 74,"vaccinated, not protected",Day 6,subcutaneous
-SRR2131580,Animal 75,"vaccinated, not protected",Day 6,subcutaneous
-SRR2131581,Animal 76,"vaccinated, not protected",Day 6,subcutaneous
-SRR2131582,Animal 86,"vaccinated, not protected",Day 6,intramuscular
-SRR2131583,Animal 88,"vaccinated, not protected",Day 6,intramuscular
-SRR2131584,Animal 74,"vaccinated, not protected",Day 7,subcutaneous
-SRR2131585,Animal 75,"vaccinated, not protected",Day 7,subcutaneous
-SRR2131586,Animal 76,"vaccinated, not protected",Day 7,subcutaneous
-SRR2131587,Animal 86,"vaccinated, protected",Day 7,intramuscular
-SRR2131588,Animal 74,"vaccinated, not protected",Day 10,subcutaneous
-SRR2131589,Animal 75,"vaccinated, protected",Day 10,subcutaneous
-SRR2131590,Animal 76,"vaccinated, not protected",Day 10,subcutaneous
-SRR2131591,Animal 86,"vaccinated, not protected",Day 10,intramuscular
-SRR2131592,Animal 88,"vaccinated, protected",Day 10,intramuscular
-SRR2131593,Animal 74,"vaccinated, protected",Day 14,subcutaneous
-SRR2131594,Animal 75,"vaccinated, protected",Day 14,subcutaneous
-SRR2131595,Animal 76,"vaccinated, protected",Day 14,subcutaneous
-SRR2131596,Animal 86,"vaccinated, protected",Day 14,intramuscular
-SRR2131597,Animal 88,"vaccinated, protected",Day 14,intramuscular
-SRR2131598,Animal 74,"vaccinated, protected",Day 21,subcutaneous
-SRR2131599,Animal 75,"vaccinated, protected",Day 21,subcutaneous
-SRR2131600,Animal 76,"vaccinated, protected",Day 21,subcutaneous
-SRR2131601,Animal 86,"vaccinated, protected",Day 21,intramuscular
-SRR2131602,Animal 88,"vaccinated, protected",Day 21,intramuscular
+Run,individual,serologic_response_status,Day,vaccine_administration
+SRR2131565,Animal 75,"vaccinated, not protected",2,subcutaneous
+SRR2131566,Animal 86,"vaccinated, not protected",2,intramuscular
+SRR2131567,Animal 88,"vaccinated, not protected",2,intramuscular
+SRR2131568,Animal 74,"vaccinated, not protected",3,subcutaneous
+SRR2131569,Animal 75,"vaccinated, not protected",3,subcutaneous
+SRR2131570,Animal 86,"vaccinated, not protected",3,intramuscular
+SRR2131571,Animal 88,"vaccinated, not protected",3,intramuscular
+SRR2131572,Animal 74,"vaccinated, not protected",4,subcutaneous
+SRR2131573,Animal 75,"vaccinated, not protected",4,subcutaneous
+SRR2131574,Animal 86,"vaccinated, not protected",4,intramuscular
+SRR2131575,Animal 75,"vaccinated, not protected",5,subcutaneous
+SRR2131576,Animal 76,"vaccinated, not protected",5,subcutaneous
+SRR2131577,Animal 86,"vaccinated, not protected",5,intramuscular
+SRR2131578,Animal 88,"vaccinated, not protected",5,intramuscular
+SRR2131579,Animal 74,"vaccinated, not protected",6,subcutaneous
+SRR2131580,Animal 75,"vaccinated, not protected",6,subcutaneous
+SRR2131581,Animal 76,"vaccinated, not protected",6,subcutaneous
+SRR2131582,Animal 86,"vaccinated, not protected",6,intramuscular
+SRR2131583,Animal 88,"vaccinated, not protected",6,intramuscular
+SRR2131584,Animal 74,"vaccinated, not protected",7,subcutaneous
+SRR2131585,Animal 75,"vaccinated, not protected",7,subcutaneous
+SRR2131586,Animal 76,"vaccinated, not protected",7,subcutaneous
+SRR2131587,Animal 86,"vaccinated, protected",7,intramuscular
+SRR2131588,Animal 74,"vaccinated, not protected",10,subcutaneous
+SRR2131589,Animal 75,"vaccinated, protected",10,subcutaneous
+SRR2131590,Animal 76,"vaccinated, not protected",10,subcutaneous
+SRR2131591,Animal 86,"vaccinated, not protected",10,intramuscular
+SRR2131592,Animal 88,"vaccinated, protected",10,intramuscular
+SRR2131593,Animal 74,"vaccinated, protected",14,subcutaneous
+SRR2131594,Animal 75,"vaccinated, protected",14,subcutaneous
+SRR2131595,Animal 76,"vaccinated, protected",14,subcutaneous
+SRR2131596,Animal 86,"vaccinated, protected",14,intramuscular
+SRR2131597,Animal 88,"vaccinated, protected",14,intramuscular
+SRR2131598,Animal 74,"vaccinated, protected",21,subcutaneous
+SRR2131599,Animal 75,"vaccinated, protected",21,subcutaneous
+SRR2131600,Animal 76,"vaccinated, protected",21,subcutaneous
+SRR2131601,Animal 86,"vaccinated, protected",21,intramuscular
+SRR2131602,Animal 88,"vaccinated, protected",21,intramuscular
